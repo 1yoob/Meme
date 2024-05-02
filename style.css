@@ -20,11 +20,13 @@ img {
 }
 
 h1 {
+    text-transform: uppercase;
     margin-top: 10px;
     margin-bottom: 0;
 }
 
 p {
+    text-transform: capitalize;
     padding-top: 10;
     color: white
 }
