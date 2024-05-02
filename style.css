@@ -1,5 +1,5 @@
 html {
-    background-color: black;    
+    background-color: black;
 }
 
 div {
@@ -16,5 +16,14 @@ div {
 
 img {
     width: 100%;
-    border: 2px solid yellow;
+    border: 5px solid yellow;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+p {
+    padding-top: 10;
 }
